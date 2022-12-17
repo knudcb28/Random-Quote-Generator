@@ -16,6 +16,7 @@ The quote generator currently filters only quotes with the "motivational" tag. T
 
 ```javascript
 apiQuotes = apiQuotes.filter(quote => quote.tag = "motivational");
+```
 
 ## Contributing
 
